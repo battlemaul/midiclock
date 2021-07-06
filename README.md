@@ -25,5 +25,5 @@ gcc -o midiclock midiclock.c -lasound -llo
 
 If you're using Raspberry Pi, you can download the pre-compiled midiclock, and you'll need to install liblo7 and libasound2 via apt:
 
-  sudo apt install liblop7 libasound2
+  sudo apt install liblo7 libasound2
   
